@@ -1,0 +1,8 @@
+{
+    "name": "A - Cura Settings Writer",
+    "author": "Johnny Matthews",
+    "version": "1.0.0",
+    "description": "Export Settings to a Text File",
+    "api": 4,
+    "i18n-catalog":"cura"
+}
